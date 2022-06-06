@@ -1,0 +1,43 @@
+.navbar{
+    height: 5in;
+    margin-top: 90px;
+    margin-left: 40px;
+    float: left;
+    margin-bottom: 40px;
+}
+body{
+    background-color: lightpink;
+}
+.mypic{
+    height: 6in;
+    margin-top: 50px;
+    float: left;
+    box-shadow: 0 10px 15px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.navbar{
+    position: relative;
+  }
+  .mypic {
+    top: 30px;
+    left: 30px;
+  }
+div{
+    width: 300px;
+    border: 15px solid white;
+    padding: 50px;
+    background-color: white;
+    margin-top: 90px;
+    float: left;
+    height: 3.7in;
+    width: 500px;
+    column-gap: 40px;
+  }
+h2{
+      font-family: 'Courier New', Courier, monospace;
+}
+.layers{
+    color: palevioletred;
+}
+.pcicon{
+    color: palevioletred;
+}
